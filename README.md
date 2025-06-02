@@ -1,6 +1,6 @@
 # Fuzzy C-Means Clustering GUI
 
-A Python-based GUI application for performing image segmentation using Fuzzy C-Means (FCM) clustering with selectable distance metrics (Euclidean or Mahalanobis). Designed to support both RGB and multispectral images, the tool visualizes segmentation results side-by-side with the original image.
+Course project for CE672: Machine Processing of Remotely Sensed Data, carried out in semester 2024-25-II at IIT Kanpur. The .py file is a Python-based GUI application for performing image segmentation using Fuzzy C-Means (FCM) clustering with selectable distance metrics (Euclidean or Mahalanobis). Designed to support both RGB and multispectral images, the tool visualizes segmentation results side-by-side with the original image.
 
 ## Features
 
